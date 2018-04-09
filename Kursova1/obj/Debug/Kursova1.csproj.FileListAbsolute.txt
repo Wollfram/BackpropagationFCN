@@ -1,0 +1,9 @@
+D:\knuhu\stud\ЧПІ\VSProjects\Kursova\Kursova1\bin\Debug\Kursova1.exe.config
+D:\knuhu\stud\ЧПІ\VSProjects\Kursova\Kursova1\bin\Debug\Kursova1.exe
+D:\knuhu\stud\ЧПІ\VSProjects\Kursova\Kursova1\bin\Debug\Kursova1.pdb
+D:\knuhu\stud\ЧПІ\VSProjects\Kursova\Kursova1\obj\Debug\Kursova1.Form1.resources
+D:\knuhu\stud\ЧПІ\VSProjects\Kursova\Kursova1\obj\Debug\Kursova1.Properties.Resources.resources
+D:\knuhu\stud\ЧПІ\VSProjects\Kursova\Kursova1\obj\Debug\Kursova1.csproj.GenerateResource.Cache
+D:\knuhu\stud\ЧПІ\VSProjects\Kursova\Kursova1\obj\Debug\Kursova1.exe
+D:\knuhu\stud\ЧПІ\VSProjects\Kursova\Kursova1\obj\Debug\Kursova1.pdb
+D:\knuhu\stud\ЧПІ\VSProjects\Kursova\Kursova1\obj\Debug\Kursova1.csprojResolveAssemblyReference.cache
